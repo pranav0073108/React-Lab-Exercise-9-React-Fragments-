@@ -1,6 +1,6 @@
 # React-Lab-Exercise-9-React-Fragments-
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : PRANAV K
+## Register Number : 2305001026
 
 # Aim
 To understand and implement React Fragments to group multiple JSX elements without creating unnecessary DOM elements.
